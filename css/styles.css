@@ -216,8 +216,7 @@ body {  background-color: #FFFFFF;
 }
 .service-item {
 }
-.service-list-link {
-    
+.service-list-link {text-decoration: none;
 }
 .service-item-title { color: var(--navyblue);
     font-size: 20px;
