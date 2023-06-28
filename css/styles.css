@@ -141,10 +141,9 @@ body {  background-color: #FFFFFF;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.team-list {
+.team-list { background-color: var(--white);
 }
-.list {
-}
+
 .team-item {
 }
 .team-item-title { color: var(--navyblue);
