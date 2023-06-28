@@ -131,7 +131,7 @@ body {  background-color: #FFFFFF;
 /*----------TEAM----------*/
 
 
-.team { background-color: var(--cloud);
+.team { background-color: var(--white);
 }
 .team-title { color: var(--navyblue);
     text-align: center;
@@ -174,7 +174,7 @@ body {  background-color: #FFFFFF;
     text-transform: uppercase;
 
 }
-.footer-logo-link .studio-wight { color:var(--white);}
+.footer-logo-link .studio-wight { color:var(--cloud);}
 
 .footer-text { color: var(--cloud);
     font-size: 16px;
