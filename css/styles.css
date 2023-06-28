@@ -206,7 +206,7 @@ body {  background-color: #FFFFFF;
     cursor: pointer;
 }
 
-.btn-menu-item:hover
+.btn-menu-item:hover,
 .btn-menu-item:focus { color: var(--white);
     background-color: var(--ocean);
 }
