@@ -131,7 +131,7 @@ body {  background-color: #FFFFFF;
 /*----------TEAM----------*/
 
 
-.team { background-color: var(--white);
+.team { background-color: var(--cloud);
 }
 .team-title { color: var(--navyblue);
     text-align: center;
@@ -184,7 +184,7 @@ body {  background-color: #FFFFFF;
 
 /*----------BTN----------*/
 
-.btn-menu {
+.btn-menu { background-color: var(--white);
 }
 .btn-menu-list {
 }
@@ -212,7 +212,7 @@ body {  background-color: #FFFFFF;
 
 /*----------SERVICE----------*/
 
-.service {
+.service { background-color: var(--white);
 }
 .service-list {
 }
