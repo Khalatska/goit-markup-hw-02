@@ -224,7 +224,8 @@ body {  background-color: #FFFFFF;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.service-item-text { font-size: 16px;
+.service-item-text { color: var(--slate);
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
