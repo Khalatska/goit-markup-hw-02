@@ -205,13 +205,19 @@ body {  background-color: #FFFFFF;
     letter-spacing: 0.04em;
     cursor: pointer;
 }
+.btn-menu-item:hover,
+.btn-menu-item:focus{ color: var(--white);
+    background-color: var(--ocean);
 
-
+}
 .service { background-color: var(--white);
 }
 .service-list {
 }
 .service-item {
+}
+.service-list-link {
+    
 }
 .service-item-title { color: var(--navyblue);
     font-size: 20px;
