@@ -183,9 +183,9 @@ body {  background-color: #FFFFFF;
 
 /*----------BTN----------*/
 
-.btn-menu { background-color: var(--white);
+.btn-menu {  
 }
-.btn-menu-list {
+.btn-menu-list { background-color: var(--white)
 }
 .btn-menu-all { background-color: var(--ocean);
     color: var(--white);
