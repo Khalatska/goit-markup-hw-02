@@ -141,10 +141,10 @@ body {  background-color: #FFFFFF;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.team-list { background-color: var(--white);
+.team-list { 
 }
 
-.team-item {
+.team-item { background-color: var(--white);
 }
 .team-item-title { color: var(--navyblue);
     text-align: center;
@@ -183,8 +183,13 @@ body {  background-color: #FFFFFF;
 
 /*----------BTN----------*/
 
+
 .btn-menu {  
 }
+
+.btn-title{
+}
+
 .btn-menu-list { background-color: var(--white)
 }
 .btn-menu-all { background-color: var(--ocean);
